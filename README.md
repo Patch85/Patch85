@@ -1,14 +1,15 @@
-Hey, I'm Dillon! I'm a developer whose always interested in learning something new. 
+Hi, I'm Dillon.
 
-I'm currently enjoying exploring Laravel with Inertia and Vue 3
+I'm a developer who is always interested in learning new things.
+Right now, I've been exploring Laravel with Inertia and Vue.
+In my day job, I work on a Synfony-based ERP system as well as a
+number of other projects using Raspberry Pi in a manufacturing environment
 
-In my free time, I like to relax with my wife and our 2 dogs and cat or sometimes I enjoy...
-- Singing & playing guitar
-- Reading fantasy novels
-- Blacksmithing
-- Woodworking
-- Gardening
-- Hiking
-- Knitting
-- Cooking & Baking
-- Other stuff
+When I'm not writing code for work or pleasure, I like to spend time...
+- with my lovely wife, our 2 dogs and cat
+- playing music
+- brewing beer
+- blacksmithing
+- woodworking
+- gardening
+- more!
